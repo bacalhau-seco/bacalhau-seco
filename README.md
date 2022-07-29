@@ -1,6 +1,6 @@
 Hello! 😀
 
-Im currently learning python and i will release an open source text based RPG im making.
+Im currently learning python and i will release an open source text based RPG im making. 😎
 
 I also use arch linux as my daily driver because it has veery good performance and its very custumizable.
 
