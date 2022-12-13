@@ -1,7 +1,6 @@
-# Upcoming Projects
+Upcoming Projects:
 
-## 1- Kiko Mendes's: School Shooting Simulator:
-Kiko Mendes kills people at school
+1- Kiko Mendes's: School Shooting Simulator
 
 
 
