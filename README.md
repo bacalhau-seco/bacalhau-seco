@@ -4,7 +4,7 @@ Upcoming Projects:
 
 
 
-I also use arch linux as my daily driver because it has veery good performance and its very customizable.
+
 
 <div align="center">
   <a href="https://github.com/bacalhau-seco">
