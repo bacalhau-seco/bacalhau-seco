@@ -1,7 +1,4 @@
-Upcoming Projects:
-
-1- Kiko Mendes's: School Shooting Simulator
-
+[insert funny joke]
 
 
 
