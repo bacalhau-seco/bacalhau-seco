@@ -1,7 +1,3 @@
-[insert funny joke]
-
-
-
 
 <div align="center">
   <a href="https://github.com/bacalhau-seco">
