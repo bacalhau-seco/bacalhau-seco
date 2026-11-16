@@ -11,6 +11,7 @@ Languages: C, Golang, Java, Python
 ```
 ## Stats
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=bacalhau-seco&theme=gruvbox&border_radius=0)
+
 ![Top Languages](https://ghstats.dev/api/langs?username=bacalhau-seco&theme=gruvbox)
 ## website
 https://based.pt/~joaopolzin
