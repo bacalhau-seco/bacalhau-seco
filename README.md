@@ -2,7 +2,10 @@
 ## About me
 My name is João Polzin, im from Portugal.
 I'm a software engineer, i specifically am studying to get into networking and cybersecurity.
-I know the following programming languages: C, Golang, Java, Python.
-I've been using Linux and running public servers and services on the internet since 2022.
+
+## Software
+Editor: VIM
+OS: Gentoo
+Languages: C, Golang, Java, Python
 ## website
 https://based.pt/~joaopolzin
